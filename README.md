@@ -1,4 +1,5 @@
-# SMBH Merger with LISA
+# Gravitational Wave Prediction of Supermassive Blackholes In Cosmological Simulations
+
 
 Analysis of supermassive black hole (SMBH) mergers from the IllustrisTNG **TNG-300** simulation and their detectability by **LISA** (Laser Interferometer Space Antenna).
 
